@@ -1,6 +1,5 @@
 # Demo Video
-https://youtu.be/8tJijUpjzIw
-
+[![Open In Youtube](https://img.youtube.com/vi/8tJijUpjzIw/0.jpg)](https://youtu.be/8tJijUpjzIw)
 # Downloads
 Win 32: https://github.com/exitdev/Pokezz-Helper/raw/master/Pokezz-Helper-v1.0-win32-ia32.zip
 

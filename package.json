@@ -1,0 +1,17 @@
+{
+  "name": "pokezz-helper",
+  "version": "1.0.0",
+  "description": "Pokezz Helper",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Pokezz.com",
+  "bugs": {
+    "url": "https://pokezz.com"
+  },
+  "homepage": "https://pokezz.com",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  }
+}
